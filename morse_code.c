@@ -44,7 +44,7 @@ int main() {
             // record how long the button is pressed
             // .....
 			printf("This line is a test\n");  // you can remove this line
-			printf("NICO THE THROAT GOAT")
+			printf("NICO THE THROAT GOAT");
 			sleep_ms(150); // adjust the sleep_ms as required
 		} 
         // check if the button press is a dot or a dash
