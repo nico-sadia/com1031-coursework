@@ -40,6 +40,8 @@ int main() {
 
 	while (true) {
 
+		printf("DON THE THROAT GOAT");
+
 		while (gpio_get(BUTTON_PIN)){			
             // record how long the button is pressed
             // .....
